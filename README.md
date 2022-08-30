@@ -6,12 +6,12 @@ aqui tem um ótimo tutorial : http://guides.railsgirls.com/guides-ptbr/install#i
 
 após configuração e instalação :
 
-Abrir o terminal
+-Abrir o terminal
 
-Acessar o diretório dos arquivos
+-Acessar o diretório dos arquivos
 
-Digitar "rails server"
+-Digitar "rails server"
 
-Abrir o navegador e digitar "localhost:3000"
+-Abrir o navegador e digitar "localhost:3000"
 
 Espero ter ajudado !
