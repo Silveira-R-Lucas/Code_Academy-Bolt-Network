@@ -1,24 +1,17 @@
-# README
+Esta é minha Solução para o exercício proposto em rails pela Code Academy " Bolt-Network " !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+para visualizar é necessário instalar o ruby juntamente com o rails na sua máquina
 
-Things you may want to cover:
+aqui tem um ótimo tutorial : http://guides.railsgirls.com/guides-ptbr/install#instala%C3%A7%C3%A3o-para-linux
 
-* Ruby version
+após configuração e instalação :
 
-* System dependencies
+Abrir o terminal
 
-* Configuration
+Acessar o diretório dos arquivos
 
-* Database creation
+Digitar "rails server"
 
-* Database initialization
+Abrir o navegador e digitar "localhost:3000"
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Espero ter ajudado !
