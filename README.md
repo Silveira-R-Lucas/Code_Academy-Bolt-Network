@@ -1,17 +1,19 @@
-Esta é minha Solução para o exercício proposto em rails pela Code Academy " Bolt-Network " !
+# README
 
-para visualizar é necessário instalar o ruby juntamente com o rails na sua máquina
+Esta é minha Solução para o exercício proposto em rails pela Code Academy " Bolt-Network " ! 🌐
 
-aqui tem um ótimo tutorial : http://guides.railsgirls.com/guides-ptbr/install#instala%C3%A7%C3%A3o-para-linux
+para visualizar é necessário instalar o Ruby juntamente com o rails na sua máquina  <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" width="25"/>
 
-após configuração e instalação :
+aqui tem um ótimo ->>> [Tutorial](http://guides.railsgirls.com/guides-ptbr/install#instala%C3%A7%C3%A3o-para-linux) 📜 
 
--Abrir o terminal
+após configuração  e instalação 🛠️ : 
 
--Acessar o diretório dos arquivos
+- Abrir o terminal 🖥️
 
--Digitar "rails server"
+- Acessar o diretório dos arquivos 📦
 
--Abrir o navegador e digitar "localhost:3000"
+- Digitar "rails server" ⌨️
 
-Espero ter ajudado !
+- Abrir o navegador e digitar "localhost:3000" 🌐
+
+Espero ter ajudado ! 🤙
